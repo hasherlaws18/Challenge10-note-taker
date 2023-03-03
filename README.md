@@ -1,1 +1,1 @@
-# Note Taker Starter Code
+This is my note-taker project.
